@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Man-on-the-Street,\" New York, New York, December 8, 1941" ] },
+    "homepage": [
+      {
+        "id": "https://www.loc.gov/item/afc1941004_sr06/",
+        "type": "Text",
+        "label": { "en": [ "Man-on-the-Street,\" New York, New York, December 8, 1941" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://www.loc.gov",
+        "type": "Agent",
+        "label": { "en": [ "LC American Folklife Center" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 272.0,
+        "items": [
+          {
+            "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "http://digitizationguidelines.gov/guidelines/cue_sampleFiles/master-afc-afc1941004-afc1941004_sr06a-afc1941004_sr06a.wav",
+                  "type": "Sound",
+                  "format": "audio/wav",
+                    "duration": 272.0
+                },
+                "target": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
