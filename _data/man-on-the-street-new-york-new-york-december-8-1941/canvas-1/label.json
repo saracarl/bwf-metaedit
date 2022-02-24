@@ -1,0 +1,386 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas/label.json",
+  "type": "AnnotationPage",
+  "label": "Label",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas/label-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "My name is Luis Andrew.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "240.0,6.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas/label-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I am a shoemaker in New York.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "6.0,10.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas/label-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I heard Mr.  President's speech\nand I think this is a very fine speech.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "10.0,14.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas/label-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "I think this time it's going to start again",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "14.0,18.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas/label-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "to give the freedom of\nthe humanity.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "18.0,21.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas/label-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "That means that no more aggression going to be on the future.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "21.0,25.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas/label-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This is going to be\nvery historic moment for the American people.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "25.0,29.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas/label-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And I think not only the American people going to be\nsatisfied,  but the whole world",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "29.0,34.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas/label-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The whole world was suffering for so many years",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "34.0,38.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas/label-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "from aggression of\nthe big sharks.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "38.0,41.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas/label-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The same way as the laborer ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "41.0,45.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas/label-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "is afraid of the boss when he's losing his job, ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "45.0,3060.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas/label-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "the same\nthing today happening: one of the small people - they're losing their freedom.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "51.0,56.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas/label-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But, I think that the\nUnited States and England and the rest Allies",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "56.0,61.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas/label-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "are going to help the humanity for the future",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "61.0,64.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas/label-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "and they\ngoing to live in peace forever.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "64.0,66.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas/label-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Luis Andrew",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "4.0,66.0"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas/label-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Only the first interview in this recording was transcribed.  The remainder of the recording does not have embedded transcriptions.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "66.0,0.0"
+        }
+      }
+    }
+  ]
+}

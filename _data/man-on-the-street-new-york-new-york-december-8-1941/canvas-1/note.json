@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas/note.json",
+  "type": "AnnotationPage",
+  "label": "Note",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas/note-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "The speaker is Luis Andrew",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/bwf-metaedit/man-on-the-street-new-york-new-york-december-8-1941/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "4.0,66.0"
+        }
+      }
+    }
+  ]
+}
